@@ -1,0 +1,8 @@
+<Project>
+  <!-- See https://aka.ms/dotnet/msbuild/customize for more details on customizing your build -->
+  <PropertyGroup>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <RootNamespace>Calastone.TextFilter.$(MSBuildProjectName)</RootNamespace>
+    <AssemblyName>Calastone.TextFilter.$(MSBuildProjectName)</AssemblyName>
+  </PropertyGroup>
+</Project>
